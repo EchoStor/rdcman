@@ -1,0 +1,11 @@
+{
+  "name": "echostor-rdcman",
+  "author":"willonit",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "summary": "A module for a thing",
+  "source": "https://github.com/examplecorp/examplecorp-mymodule",
+  "dependencies": [
+    { "name": "chocolatey/chocolatey", "version_requirement": ">= 1.0.0 < 2.0.0"}
+  ]
+}
